@@ -40,3 +40,9 @@ vue init webpack my-project
 ```
 
 which uses a webpack boiler plate and vue-loader for Single=File Components.
+
+Adding Sass loaders:
+
+``` bash
+npm install -D sass-loader node-sass
+```
